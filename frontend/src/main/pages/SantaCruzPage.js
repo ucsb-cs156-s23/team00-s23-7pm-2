@@ -12,5 +12,5 @@ export default function SantaCruzPage() {
         <p>Added by Colin B.</p>
       </div>
     </BasicLayout>
-  )
+  ) 
 }
