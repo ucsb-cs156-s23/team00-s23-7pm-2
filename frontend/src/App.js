@@ -6,7 +6,6 @@ import ArroyoGrandePage from "main/pages/ArroyoGrandePage";
 import SanFranciscoPage from "main/pages/SanFranciscoPage";
 
 import "bootstrap/dist/css/bootstrap.css";
-import SanFranciscoPage from "main/pages/SanFranciscoPage";
 
 
 function App() {
