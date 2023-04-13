@@ -10,7 +10,7 @@ import "bootstrap/dist/css/bootstrap.css";
 function App() {
 
   return (
-    <BrowserRouter basename="/demo-react-example">
+    <BrowserRouter basename="/team00-s23-5pm-1">
       <Routes>
         <Route exact path="/" element={<HomePage />} />
         <Route exact path="/towns/AvilaBeach" element={<AvilaBeachPage />} />
